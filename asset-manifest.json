@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RaviNakhate/movietime/static/css/main.5cde8e21.css",
+    "main.js": "/RaviNakhate/movietime/static/js/main.256bb33c.js",
+    "static/media/footer.png": "/RaviNakhate/movietime/static/media/footer.40aeb5e41869bd878e37.png",
+    "static/media/background2.jpg": "/RaviNakhate/movietime/static/media/background2.864fcaea177f5578b098.jpg",
+    "static/media/noimg.jpg": "/RaviNakhate/movietime/static/media/noimg.8b15b0e2ec92f06edc58.jpg",
+    "index.html": "/RaviNakhate/movietime/index.html",
+    "main.5cde8e21.css.map": "/RaviNakhate/movietime/static/css/main.5cde8e21.css.map",
+    "main.256bb33c.js.map": "/RaviNakhate/movietime/static/js/main.256bb33c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cde8e21.css",
+    "static/js/main.256bb33c.js"
+  ]
+}
